@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1050)"><rect width="1000" height="1000" fill="#000000"></rect><g transform="matrix(15.625,0,0,15.625,0,0)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764"></stop>
+      <stop offset="100%" stop-color="#1e0338"></stop>
+    </linearGradient>
+    <linearGradient id="chip3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4af37"></stop>
+      <stop offset="100%" stop-color="#b8860b"></stop>
+    </linearGradient>
+  <clipPath id="SvgjsClipPath1050"><rect width="1000" height="1000" x="0" y="0" rx="500" ry="500"></rect></clipPath></defs><rect width="64" height="64" rx="12" fill="url(#bg3)"></rect><circle cx="28" cy="33" r="20" fill="url(#chip3)"></circle><circle cx="28" cy="33" r="16" fill="#3b0764"></circle><circle cx="28" cy="33" r="12" fill="url(#chip3)"></circle><rect x="25" y="13" width="6" height="4" rx="1" fill="#3b0764"></rect><rect x="25" y="49" width="6" height="4" rx="1" fill="#3b0764"></rect><rect x="8" y="30" width="4" height="6" rx="1" fill="#3b0764"></rect><rect x="44" y="30" width="4" height="6" rx="1" fill="#3b0764"></rect><text x="28" y="38" font-family="Georgia, serif" font-size="14" font-weight="900" fill="#d4af37" text-anchor="middle">K</text><circle cx="48" cy="18" r="11" fill="#7c3aed"></circle><circle cx="48" cy="18" r="8" fill="#5b21b6"></circle><path d="M44 19 L44 23 L52 23 L52 19 Z" fill="none" stroke="#a78bfa" stroke-width="1.5"></path><path d="M44 19 L44 17 Q44 13 48 13 Q51 13 51 16" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"></path><circle cx="48" cy="20.5" r="1.2" fill="#a78bfa"></circle></svg></g></g></svg>
